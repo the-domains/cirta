@@ -2,6 +2,7 @@ name: cirta
 favicon: null
 layout_spectrum: 0.4184722723439336
 typography_spectrum: 0.8632248737849295
+title: 'Cirta Securité & Services'
 cta:
   domain: null
   bucket: null
