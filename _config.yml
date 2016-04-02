@@ -1,0 +1,28 @@
+name: cirta
+favicon: null
+layout_spectrum: 0.4184722723439336
+typography_spectrum: 0.8632248737849295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9755897205322981
+  lightness: 0.05193640664219856
+  saturation: 0.48803857644088566
+  rhythmicContrast: 0.32337654288858175
+purpose: []
